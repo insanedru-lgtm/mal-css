@@ -18,3 +18,9 @@
 body{
   --character: url(https://cdn130.picsart.com/274649890003211.png?r1024x1024);
 }
+.cover-block{
+  background-image: url(https://i.imgur.com/fDrJO1S.jpg) !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
